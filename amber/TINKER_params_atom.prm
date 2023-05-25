@@ -1,0 +1,477 @@
+atom          1   1    N3    "NMET N"                          7     14.01    4
+atom          2   2    H     "NMET H1"                         1      1.01    1
+atom          3   2    H     "NMET H2"                         1      1.01    1
+atom          4   2    H     "NMET H3"                         1      1.01    1
+atom          5   3    CT    "NMET CA"                         6     12.01    4
+atom          6   4    HP    "NMET HA"                         1      1.01    1
+atom          7   3    CT    "NMET CB"                         6     12.01    4
+atom          8   5    HC    "NMET HB2"                        1      1.01    1
+atom          9   5    HC    "NMET HB3"                        1      1.01    1
+atom         10   3    CT    "NMET CG"                         6     12.01    4
+atom         11   6    H1    "NMET HG2"                        1      1.01    1
+atom         12   6    H1    "NMET HG3"                        1      1.01    1
+atom         13   7    S     "NMET SD"                        16     32.06    2
+atom         14   3    CT    "NMET CE"                         6     12.01    4
+atom         15   6    H1    "NMET HE1"                        1      1.01    1
+atom         16   6    H1    "NMET HE2"                        1      1.01    1
+atom         17   6    H1    "NMET HE3"                        1      1.01    1
+atom         18   8    C     "NMET C"                          6     12.01    3
+atom         19   9    O     "NMET O"                          8     16.00    1
+atom         20  10    N     "PRO N"                           7     14.01    3
+atom         21   3    CT    "PRO CD"                          6     12.01    4
+atom         22   6    H1    "PRO HD2"                         1      1.01    1
+atom         23   6    H1    "PRO HD3"                         1      1.01    1
+atom         24   3    CT    "PRO CG"                          6     12.01    4
+atom         25   5    HC    "PRO HG2"                         1      1.01    1
+atom         26   5    HC    "PRO HG3"                         1      1.01    1
+atom         27   3    CT    "PRO CB"                          6     12.01    4
+atom         28   5    HC    "PRO HB2"                         1      1.01    1
+atom         29   5    HC    "PRO HB3"                         1      1.01    1
+atom         30   3    CT    "PRO CA"                          6     12.01    4
+atom         31   6    H1    "PRO HA"                          1      1.01    1
+atom         32   8    C     "PRO C"                           6     12.01    3
+atom         33   9    O     "PRO O"                           8     16.00    1
+atom         34  10    N     "THR N"                           7     14.01    3
+atom         35   2    H     "THR H"                           1      1.01    1
+atom         36   3    CT    "THR CA"                          6     12.01    4
+atom         37   6    H1    "THR HA"                          1      1.01    1
+atom         38   3    CT    "THR CB"                          6     12.01    4
+atom         39   6    H1    "THR HB"                          1      1.01    1
+atom         40   3    CT    "THR CG2"                         6     12.01    4
+atom         41   5    HC    "THR HG21"                        1      1.01    1
+atom         42   5    HC    "THR HG22"                        1      1.01    1
+atom         43   5    HC    "THR HG23"                        1      1.01    1
+atom         44  11    OH    "THR OG1"                         8     16.00    2
+atom         45  12    HO    "THR HG1"                         1      1.01    1
+atom         46   8    C     "THR C"                           6     12.01    3
+atom         47   9    O     "THR O"                           8     16.00    1
+atom         48  10    N     "LEU N"                           7     14.01    3
+atom         49   2    H     "LEU H"                           1      1.01    1
+atom         50   3    CT    "LEU CA"                          6     12.01    4
+atom         51   6    H1    "LEU HA"                          1      1.01    1
+atom         52   3    CT    "LEU CB"                          6     12.01    4
+atom         53   5    HC    "LEU HB2"                         1      1.01    1
+atom         54   5    HC    "LEU HB3"                         1      1.01    1
+atom         55   3    CT    "LEU CG"                          6     12.01    4
+atom         56   5    HC    "LEU HG"                          1      1.01    1
+atom         57   3    CT    "LEU CD1"                         6     12.01    4
+atom         58   5    HC    "LEU HD11"                        1      1.01    1
+atom         59   5    HC    "LEU HD12"                        1      1.01    1
+atom         60   5    HC    "LEU HD13"                        1      1.01    1
+atom         61   3    CT    "LEU CD2"                         6     12.01    4
+atom         62   5    HC    "LEU HD21"                        1      1.01    1
+atom         63   5    HC    "LEU HD22"                        1      1.01    1
+atom         64   5    HC    "LEU HD23"                        1      1.01    1
+atom         65   8    C     "LEU C"                           6     12.01    3
+atom         66   9    O     "LEU O"                           8     16.00    1
+atom         67  10    N     "PHE N"                           7     14.01    3
+atom         68   2    H     "PHE H"                           1      1.01    1
+atom         69   3    CT    "PHE CA"                          6     12.01    4
+atom         70   6    H1    "PHE HA"                          1      1.01    1
+atom         71   3    CT    "PHE CB"                          6     12.01    4
+atom         72   5    HC    "PHE HB2"                         1      1.01    1
+atom         73   5    HC    "PHE HB3"                         1      1.01    1
+atom         74  13    CA    "PHE CG"                          6     12.01    3
+atom         75  13    CA    "PHE CD1"                         6     12.01    3
+atom         76  14    HA    "PHE HD1"                         1      1.01    1
+atom         77  13    CA    "PHE CE1"                         6     12.01    3
+atom         78  14    HA    "PHE HE1"                         1      1.01    1
+atom         79  13    CA    "PHE CZ"                          6     12.01    3
+atom         80  14    HA    "PHE HZ"                          1      1.01    1
+atom         81  13    CA    "PHE CE2"                         6     12.01    3
+atom         82  14    HA    "PHE HE2"                         1      1.01    1
+atom         83  13    CA    "PHE CD2"                         6     12.01    3
+atom         84  14    HA    "PHE HD2"                         1      1.01    1
+atom         85   8    C     "PHE C"                           6     12.01    3
+atom         86   9    O     "PHE O"                           8     16.00    1
+atom         87  10    N     "ASP N"                           7     14.01    3
+atom         88   2    H     "ASP H"                           1      1.01    1
+atom         89   3    CT    "ASP CA"                          6     12.01    4
+atom         90   6    H1    "ASP HA"                          1      1.01    1
+atom         91   3    CT    "ASP CB"                          6     12.01    4
+atom         92   5    HC    "ASP HB2"                         1      1.01    1
+atom         93   5    HC    "ASP HB3"                         1      1.01    1
+atom         94   8    C     "ASP CG"                          6     12.01    3
+atom         95  15    O2    "ASP OD1"                         8     16.00    1
+atom         96  15    O2    "ASP OD2"                         8     16.00    1
+atom         97   8    C     "ASP C"                           6     12.01    3
+atom         98   9    O     "ASP O"                           8     16.00    1
+atom         99  10    N     "ILE N"                           7     14.01    3
+atom        100   2    H     "ILE H"                           1      1.01    1
+atom        101   3    CT    "ILE CA"                          6     12.01    4
+atom        102   6    H1    "ILE HA"                          1      1.01    1
+atom        103   3    CT    "ILE CB"                          6     12.01    4
+atom        104   5    HC    "ILE HB"                          1      1.01    1
+atom        105   3    CT    "ILE CG2"                         6     12.01    4
+atom        106   5    HC    "ILE HG21"                        1      1.01    1
+atom        107   5    HC    "ILE HG22"                        1      1.01    1
+atom        108   5    HC    "ILE HG23"                        1      1.01    1
+atom        109   3    CT    "ILE CG1"                         6     12.01    4
+atom        110   5    HC    "ILE HG12"                        1      1.01    1
+atom        111   5    HC    "ILE HG13"                        1      1.01    1
+atom        112   3    CT    "ILE CD1"                         6     12.01    4
+atom        113   5    HC    "ILE HD11"                        1      1.01    1
+atom        114   5    HC    "ILE HD12"                        1      1.01    1
+atom        115   5    HC    "ILE HD13"                        1      1.01    1
+atom        116   8    C     "ILE C"                           6     12.01    3
+atom        117   9    O     "ILE O"                           8     16.00    1
+atom        118  10    N     "GLY N"                           7     14.01    3
+atom        119   2    H     "GLY H"                           1      1.01    1
+atom        120   3    CT    "GLY CA"                          6     12.01    4
+atom        121   6    H1    "GLY HA2"                         1      1.01    1
+atom        122   6    H1    "GLY HA3"                         1      1.01    1
+atom        123   8    C     "GLY C"                           6     12.01    3
+atom        124   9    O     "GLY O"                           8     16.00    1
+atom        125  10    N     "HID N"                           7     14.01    3
+atom        126   2    H     "HID H"                           1      1.01    1
+atom        127   3    CT    "HID CA"                          6     12.01    4
+atom        128   6    H1    "HID HA"                          1      1.01    1
+atom        129   3    CT    "HID CB"                          6     12.01    4
+atom        130   5    HC    "HID HB2"                         1      1.01    1
+atom        131   5    HC    "HID HB3"                         1      1.01    1
+atom        132  16    CC    "HID CG"                          6     12.01    3
+atom        133  17    NA    "HID ND1"                         7     14.01    3
+atom        134   2    H     "HID HD1"                         1      1.01    1
+atom        135  18    CR    "HID CE1"                         6     12.01    3
+atom        136  19    H5    "HID HE1"                         1      1.01    1
+atom        137  20    NB    "HID NE2"                         7     14.01    2
+atom        138  21    CV    "HID CD2"                         6     12.01    3
+atom        139  22    H4    "HID HD2"                         1      1.01    1
+atom        140   8    C     "HID C"                           6     12.01    3
+atom        141   9    O     "HID O"                           8     16.00    1
+atom        142  10    N     "ALA N"                           7     14.01    3
+atom        143   2    H     "ALA H"                           1      1.01    1
+atom        144   3    CT    "ALA CA"                          6     12.01    4
+atom        145   6    H1    "ALA HA"                          1      1.01    1
+atom        146   3    CT    "ALA CB"                          6     12.01    4
+atom        147   5    HC    "ALA HB1"                         1      1.01    1
+atom        148   5    HC    "ALA HB2"                         1      1.01    1
+atom        149   5    HC    "ALA HB3"                         1      1.01    1
+atom        150   8    C     "ALA C"                           6     12.01    3
+atom        151   9    O     "ALA O"                           8     16.00    1
+atom        152  10    N     "LYS N"                           7     14.01    3
+atom        153   2    H     "LYS H"                           1      1.01    1
+atom        154   3    CT    "LYS CA"                          6     12.01    4
+atom        155   6    H1    "LYS HA"                          1      1.01    1
+atom        156   3    CT    "LYS CB"                          6     12.01    4
+atom        157   5    HC    "LYS HB2"                         1      1.01    1
+atom        158   5    HC    "LYS HB3"                         1      1.01    1
+atom        159   3    CT    "LYS CG"                          6     12.01    4
+atom        160   5    HC    "LYS HG2"                         1      1.01    1
+atom        161   5    HC    "LYS HG3"                         1      1.01    1
+atom        162   3    CT    "LYS CD"                          6     12.01    4
+atom        163   5    HC    "LYS HD2"                         1      1.01    1
+atom        164   5    HC    "LYS HD3"                         1      1.01    1
+atom        165   3    CT    "LYS CE"                          6     12.01    4
+atom        166   4    HP    "LYS HE2"                         1      1.01    1
+atom        167   4    HP    "LYS HE3"                         1      1.01    1
+atom        168   1    N3    "LYS NZ"                          7     14.01    4
+atom        169   2    H     "LYS HZ1"                         1      1.01    1
+atom        170   2    H     "LYS HZ2"                         1      1.01    1
+atom        171   2    H     "LYS HZ3"                         1      1.01    1
+atom        172   8    C     "LYS C"                           6     12.01    3
+atom        173   9    O     "LYS O"                           8     16.00    1
+atom        174  10    N     "ASN N"                           7     14.01    3
+atom        175   2    H     "ASN H"                           1      1.01    1
+atom        176   3    CT    "ASN CA"                          6     12.01    4
+atom        177   6    H1    "ASN HA"                          1      1.01    1
+atom        178   3    CT    "ASN CB"                          6     12.01    4
+atom        179   5    HC    "ASN HB2"                         1      1.01    1
+atom        180   5    HC    "ASN HB3"                         1      1.01    1
+atom        181   8    C     "ASN CG"                          6     12.01    3
+atom        182   9    O     "ASN OD1"                         8     16.00    1
+atom        183  10    N     "ASN ND2"                         7     14.01    3
+atom        184   2    H     "ASN HD21"                        1      1.01    1
+atom        185   2    H     "ASN HD22"                        1      1.01    1
+atom        186   8    C     "ASN C"                           6     12.01    3
+atom        187   9    O     "ASN O"                           8     16.00    1
+atom        188  10    N     "ARG N"                           7     14.01    3
+atom        189   2    H     "ARG H"                           1      1.01    1
+atom        190   3    CT    "ARG CA"                          6     12.01    4
+atom        191   6    H1    "ARG HA"                          1      1.01    1
+atom        192   3    CT    "ARG CB"                          6     12.01    4
+atom        193   5    HC    "ARG HB2"                         1      1.01    1
+atom        194   5    HC    "ARG HB3"                         1      1.01    1
+atom        195   3    CT    "ARG CG"                          6     12.01    4
+atom        196   5    HC    "ARG HG2"                         1      1.01    1
+atom        197   5    HC    "ARG HG3"                         1      1.01    1
+atom        198   3    CT    "ARG CD"                          6     12.01    4
+atom        199   6    H1    "ARG HD2"                         1      1.01    1
+atom        200   6    H1    "ARG HD3"                         1      1.01    1
+atom        201  23    N2    "ARG NE"                          7     14.01    3
+atom        202   2    H     "ARG HE"                          1      1.01    1
+atom        203  13    CA    "ARG CZ"                          6     12.01    3
+atom        204  23    N2    "ARG NH1"                         7     14.01    3
+atom        205   2    H     "ARG HH11"                        1      1.01    1
+atom        206   2    H     "ARG HH12"                        1      1.01    1
+atom        207  23    N2    "ARG NH2"                         7     14.01    3
+atom        208   2    H     "ARG HH21"                        1      1.01    1
+atom        209   2    H     "ARG HH22"                        1      1.01    1
+atom        210   8    C     "ARG C"                           6     12.01    3
+atom        211   9    O     "ARG O"                           8     16.00    1
+atom        212  10    N     "VAL N"                           7     14.01    3
+atom        213   2    H     "VAL H"                           1      1.01    1
+atom        214   3    CT    "VAL CA"                          6     12.01    4
+atom        215   6    H1    "VAL HA"                          1      1.01    1
+atom        216   3    CT    "VAL CB"                          6     12.01    4
+atom        217   5    HC    "VAL HB"                          1      1.01    1
+atom        218   3    CT    "VAL CG1"                         6     12.01    4
+atom        219   5    HC    "VAL HG11"                        1      1.01    1
+atom        220   5    HC    "VAL HG12"                        1      1.01    1
+atom        221   5    HC    "VAL HG13"                        1      1.01    1
+atom        222   3    CT    "VAL CG2"                         6     12.01    4
+atom        223   5    HC    "VAL HG21"                        1      1.01    1
+atom        224   5    HC    "VAL HG22"                        1      1.01    1
+atom        225   5    HC    "VAL HG23"                        1      1.01    1
+atom        226   8    C     "VAL C"                           6     12.01    3
+atom        227   9    O     "VAL O"                           8     16.00    1
+atom        228  10    N     "MET N"                           7     14.01    3
+atom        229   2    H     "MET H"                           1      1.01    1
+atom        230   3    CT    "MET CA"                          6     12.01    4
+atom        231   6    H1    "MET HA"                          1      1.01    1
+atom        232   3    CT    "MET CB"                          6     12.01    4
+atom        233   5    HC    "MET HB2"                         1      1.01    1
+atom        234   5    HC    "MET HB3"                         1      1.01    1
+atom        235   3    CT    "MET CG"                          6     12.01    4
+atom        236   6    H1    "MET HG2"                         1      1.01    1
+atom        237   6    H1    "MET HG3"                         1      1.01    1
+atom        238   7    S     "MET SD"                         16     32.06    2
+atom        239   3    CT    "MET CE"                          6     12.01    4
+atom        240   6    H1    "MET HE1"                         1      1.01    1
+atom        241   6    H1    "MET HE2"                         1      1.01    1
+atom        242   6    H1    "MET HE3"                         1      1.01    1
+atom        243   8    C     "MET C"                           6     12.01    3
+atom        244   9    O     "MET O"                           8     16.00    1
+atom        245  10    N     "SER N"                           7     14.01    3
+atom        246   2    H     "SER H"                           1      1.01    1
+atom        247   3    CT    "SER CA"                          6     12.01    4
+atom        248   6    H1    "SER HA"                          1      1.01    1
+atom        249   3    CT    "SER CB"                          6     12.01    4
+atom        250   6    H1    "SER HB2"                         1      1.01    1
+atom        251   6    H1    "SER HB3"                         1      1.01    1
+atom        252  11    OH    "SER OG"                          8     16.00    2
+atom        253  12    HO    "SER HG"                          1      1.01    1
+atom        254   8    C     "SER C"                           6     12.01    3
+atom        255   9    O     "SER O"                           8     16.00    1
+atom        256  10    N     "GLU N"                           7     14.01    3
+atom        257   2    H     "GLU H"                           1      1.01    1
+atom        258   3    CT    "GLU CA"                          6     12.01    4
+atom        259   6    H1    "GLU HA"                          1      1.01    1
+atom        260   3    CT    "GLU CB"                          6     12.01    4
+atom        261   5    HC    "GLU HB2"                         1      1.01    1
+atom        262   5    HC    "GLU HB3"                         1      1.01    1
+atom        263   3    CT    "GLU CG"                          6     12.01    4
+atom        264   5    HC    "GLU HG2"                         1      1.01    1
+atom        265   5    HC    "GLU HG3"                         1      1.01    1
+atom        266   8    C     "GLU CD"                          6     12.01    3
+atom        267  15    O2    "GLU OE1"                         8     16.00    1
+atom        268  15    O2    "GLU OE2"                         8     16.00    1
+atom        269   8    C     "GLU C"                           6     12.01    3
+atom        270   9    O     "GLU O"                           8     16.00    1
+atom        271  10    N     "TYR N"                           7     14.01    3
+atom        272   2    H     "TYR H"                           1      1.01    1
+atom        273   3    CT    "TYR CA"                          6     12.01    4
+atom        274   6    H1    "TYR HA"                          1      1.01    1
+atom        275   3    CT    "TYR CB"                          6     12.01    4
+atom        276   5    HC    "TYR HB2"                         1      1.01    1
+atom        277   5    HC    "TYR HB3"                         1      1.01    1
+atom        278  13    CA    "TYR CG"                          6     12.01    3
+atom        279  13    CA    "TYR CD1"                         6     12.01    3
+atom        280  14    HA    "TYR HD1"                         1      1.01    1
+atom        281  13    CA    "TYR CE1"                         6     12.01    3
+atom        282  14    HA    "TYR HE1"                         1      1.01    1
+atom        283   8    C     "TYR CZ"                          6     12.01    3
+atom        284  11    OH    "TYR OH"                          8     16.00    2
+atom        285  12    HO    "TYR HH"                          1      1.01    1
+atom        286  13    CA    "TYR CE2"                         6     12.01    3
+atom        287  14    HA    "TYR HE2"                         1      1.01    1
+atom        288  13    CA    "TYR CD2"                         6     12.01    3
+atom        289  14    HA    "TYR HD2"                         1      1.01    1
+atom        290   8    C     "TYR C"                           6     12.01    3
+atom        291   9    O     "TYR O"                           8     16.00    1
+atom        292  10    N     "GLN N"                           7     14.01    3
+atom        293   2    H     "GLN H"                           1      1.01    1
+atom        294   3    CT    "GLN CA"                          6     12.01    4
+atom        295   6    H1    "GLN HA"                          1      1.01    1
+atom        296   3    CT    "GLN CB"                          6     12.01    4
+atom        297   5    HC    "GLN HB2"                         1      1.01    1
+atom        298   5    HC    "GLN HB3"                         1      1.01    1
+atom        299   3    CT    "GLN CG"                          6     12.01    4
+atom        300   5    HC    "GLN HG2"                         1      1.01    1
+atom        301   5    HC    "GLN HG3"                         1      1.01    1
+atom        302   8    C     "GLN CD"                          6     12.01    3
+atom        303   9    O     "GLN OE1"                         8     16.00    1
+atom        304  10    N     "GLN NE2"                         7     14.01    3
+atom        305   2    H     "GLN HE21"                        1      1.01    1
+atom        306   2    H     "GLN HE22"                        1      1.01    1
+atom        307   8    C     "GLN C"                           6     12.01    3
+atom        308   9    O     "GLN O"                           8     16.00    1
+atom        309  10    N     "TRP N"                           7     14.01    3
+atom        310   2    H     "TRP H"                           1      1.01    1
+atom        311   3    CT    "TRP CA"                          6     12.01    4
+atom        312   6    H1    "TRP HA"                          1      1.01    1
+atom        313   3    CT    "TRP CB"                          6     12.01    4
+atom        314   5    HC    "TRP HB2"                         1      1.01    1
+atom        315   5    HC    "TRP HB3"                         1      1.01    1
+atom        316  24    C*    "TRP CG"                          6     12.01    3
+atom        317  25    CW    "TRP CD1"                         6     12.01    3
+atom        318  22    H4    "TRP HD1"                         1      1.01    1
+atom        319  17    NA    "TRP NE1"                         7     14.01    3
+atom        320   2    H     "TRP HE1"                         1      1.01    1
+atom        321  26    CN    "TRP CE2"                         6     12.01    3
+atom        322  13    CA    "TRP CZ2"                         6     12.01    3
+atom        323  14    HA    "TRP HZ2"                         1      1.01    1
+atom        324  13    CA    "TRP CH2"                         6     12.01    3
+atom        325  14    HA    "TRP HH2"                         1      1.01    1
+atom        326  13    CA    "TRP CZ3"                         6     12.01    3
+atom        327  14    HA    "TRP HZ3"                         1      1.01    1
+atom        328  13    CA    "TRP CE3"                         6     12.01    3
+atom        329  14    HA    "TRP HE3"                         1      1.01    1
+atom        330  27    CB    "TRP CD2"                         6     12.01    3
+atom        331   8    C     "TRP C"                           6     12.01    3
+atom        332   9    O     "TRP O"                           8     16.00    1
+atom        333  10    N     "HIP N"                           7     14.01    3
+atom        334   2    H     "HIP H"                           1      1.01    1
+atom        335   3    CT    "HIP CA"                          6     12.01    4
+atom        336   6    H1    "HIP HA"                          1      1.01    1
+atom        337   3    CT    "HIP CB"                          6     12.01    4
+atom        338   5    HC    "HIP HB2"                         1      1.01    1
+atom        339   5    HC    "HIP HB3"                         1      1.01    1
+atom        340  16    CC    "HIP CG"                          6     12.01    3
+atom        341  17    NA    "HIP ND1"                         7     14.01    3
+atom        342   2    H     "HIP HD1"                         1      1.01    1
+atom        343  18    CR    "HIP CE1"                         6     12.01    3
+atom        344  19    H5    "HIP HE1"                         1      1.01    1
+atom        345  17    NA    "HIP NE2"                         7     14.01    3
+atom        346   2    H     "HIP HE2"                         1      1.01    1
+atom        347  25    CW    "HIP CD2"                         6     12.01    3
+atom        348  22    H4    "HIP HD2"                         1      1.01    1
+atom        349   8    C     "HIP C"                           6     12.01    3
+atom        350   9    O     "HIP O"                           8     16.00    1
+atom        351  10    N     "CYS N"                           7     14.01    3
+atom        352   2    H     "CYS H"                           1      1.01    1
+atom        353   3    CT    "CYS CA"                          6     12.01    4
+atom        354   6    H1    "CYS HA"                          1      1.01    1
+atom        355   3    CT    "CYS CB"                          6     12.01    4
+atom        356   6    H1    "CYS HB2"                         1      1.01    1
+atom        357   6    H1    "CYS HB3"                         1      1.01    1
+atom        358  28    SH    "CYS SG"                         16     32.06    2
+atom        359  29    HS    "CYS HG"                          1      1.01    1
+atom        360   8    C     "CYS C"                           6     12.01    3
+atom        361   9    O     "CYS O"                           8     16.00    1
+atom        362  10    N     "HIE N"                           7     14.01    3
+atom        363   2    H     "HIE H"                           1      1.01    1
+atom        364   3    CT    "HIE CA"                          6     12.01    4
+atom        365   6    H1    "HIE HA"                          1      1.01    1
+atom        366   3    CT    "HIE CB"                          6     12.01    4
+atom        367   5    HC    "HIE HB2"                         1      1.01    1
+atom        368   5    HC    "HIE HB3"                         1      1.01    1
+atom        369  16    CC    "HIE CG"                          6     12.01    3
+atom        370  20    NB    "HIE ND1"                         7     14.01    2
+atom        371  18    CR    "HIE CE1"                         6     12.01    3
+atom        372  19    H5    "HIE HE1"                         1      1.01    1
+atom        373  17    NA    "HIE NE2"                         7     14.01    3
+atom        374   2    H     "HIE HE2"                         1      1.01    1
+atom        375  25    CW    "HIE CD2"                         6     12.01    3
+atom        376  22    H4    "HIE HD2"                         1      1.01    1
+atom        377   8    C     "HIE C"                           6     12.01    3
+atom        378   9    O     "HIE O"                           8     16.00    1
+atom        379  10    N     "CALA N"                          7     14.01    3
+atom        380   2    H     "CALA H"                          1      1.01    1
+atom        381   3    CT    "CALA CA"                         6     12.01    4
+atom        382   6    H1    "CALA HA"                         1      1.01    1
+atom        383   3    CT    "CALA CB"                         6     12.01    4
+atom        384   5    HC    "CALA HB1"                        1      1.01    1
+atom        385   5    HC    "CALA HB2"                        1      1.01    1
+atom        386   5    HC    "CALA HB3"                        1      1.01    1
+atom        387   8    C     "CALA C"                          6     12.01    3
+atom        388  15    O2    "CALA O"                          8     16.00    1
+atom        389  15    O2    "CALA OXT"                        8     16.00    1
+atom        390  30    ca    "STY C1"                          6     12.01    0 !! GUESSED CONNECTION
+atom        391  30    ca    "STY C2"                          6     12.01    0 !! GUESSED CONNECTION
+atom        392  30    ca    "STY C3"                          6     12.01    0 !! GUESSED CONNECTION
+atom        393  30    ca    "STY C4"                          6     12.01    0 !! GUESSED CONNECTION
+atom        394  30    ca    "STY C5"                          6     12.01    0 !! GUESSED CONNECTION
+atom        395  30    ca    "STY C6"                          6     12.01    0 !! GUESSED CONNECTION
+atom        396  31    c2    "STY C7"                          6     12.01    0 !! GUESSED CONNECTION
+atom        397  32    ce    "STY C8"                          6     12.01    0 !! GUESSED CONNECTION
+atom        398  33    c3    "STY C9"                          6     12.01    0 !! GUESSED CONNECTION
+atom        399  34    ha    "STY H1"                          1      1.01    0 !! GUESSED CONNECTION
+atom        400  34    ha    "STY H2"                          1      1.01    0 !! GUESSED CONNECTION
+atom        401  34    ha    "STY H3"                          1      1.01    0 !! GUESSED CONNECTION
+atom        402  34    ha    "STY H4"                          1      1.01    0 !! GUESSED CONNECTION
+atom        403  34    ha    "STY H5"                          1      1.01    0 !! GUESSED CONNECTION
+atom        404  34    ha    "STY H6"                          1      1.01    0 !! GUESSED CONNECTION
+atom        405  34    ha    "STY H7"                          1      1.01    0 !! GUESSED CONNECTION
+atom        406  35    hc    "STY H8"                          1      1.01    0 !! GUESSED CONNECTION
+atom        407  35    hc    "STY H9"                          1      1.01    0 !! GUESSED CONNECTION
+atom        408  35    hc    "STY H10"                         1      1.01    0 !! GUESSED CONNECTION
+atom        409  36    nc    "FMN N1"                          7     14.01    0 !! GUESSED CONNECTION
+atom        410  37    cd    "FMN C2"                          6     12.01    0 !! GUESSED CONNECTION
+atom        411  38    o     "FMN O2"                          8     16.00    0 !! GUESSED CONNECTION
+atom        412  39    n     "FMN N3"                          7     14.01    0 !! GUESSED CONNECTION
+atom        413  40    c     "FMN C4"                          6     12.01    0 !! GUESSED CONNECTION
+atom        414  38    o     "FMN O4"                          8     16.00    0 !! GUESSED CONNECTION
+atom        415  37    cd    "FMN C4A"                         6     12.01    0 !! GUESSED CONNECTION
+atom        416  41    na    "FMN N5"                          7     14.01    0 !! GUESSED CONNECTION
+atom        417  30    ca    "FMN C5A"                         6     12.01    0 !! GUESSED CONNECTION
+atom        418  30    ca    "FMN C6"                          6     12.01    0 !! GUESSED CONNECTION
+atom        419  30    ca    "FMN C7"                          6     12.01    0 !! GUESSED CONNECTION
+atom        420  33    c3    "FMN C7M"                         6     12.01    0 !! GUESSED CONNECTION
+atom        421  30    ca    "FMN C8"                          6     12.01    0 !! GUESSED CONNECTION
+atom        422  33    c3    "FMN C8M"                         6     12.01    0 !! GUESSED CONNECTION
+atom        423  30    ca    "FMN C9"                          6     12.01    0 !! GUESSED CONNECTION
+atom        424  30    ca    "FMN C9A"                         6     12.01    0 !! GUESSED CONNECTION
+atom        425  41    na    "FMN N10"                         7     14.01    0 !! GUESSED CONNECTION
+atom        426  42    cc    "FMN C10"                         6     12.01    0 !! GUESSED CONNECTION
+atom        427  33    c3    "FMN C1'"                         6     12.01    0 !! GUESSED CONNECTION
+atom        428  33    c3    "FMN C2'"                         6     12.01    0 !! GUESSED CONNECTION
+atom        429  43    oh    "FMN O2'"                         8     16.00    0 !! GUESSED CONNECTION
+atom        430  33    c3    "FMN C3'"                         6     12.01    0 !! GUESSED CONNECTION
+atom        431  43    oh    "FMN O3'"                         8     16.00    0 !! GUESSED CONNECTION
+atom        432  33    c3    "FMN C4'"                         6     12.01    0 !! GUESSED CONNECTION
+atom        433  43    oh    "FMN O4'"                         8     16.00    0 !! GUESSED CONNECTION
+atom        434  33    c3    "FMN C5'"                         6     12.01    0 !! GUESSED CONNECTION
+atom        435  44    os    "FMN O5'"                         8     16.00    0 !! GUESSED CONNECTION
+atom        436  45    p5    "FMN P"                          15     30.97    0 !! GUESSED CONNECTION
+atom        437  38    o     "FMN O1P"                         8     16.00    0 !! GUESSED CONNECTION
+atom        438  38    o     "FMN O2P"                         8     16.00    0 !! GUESSED CONNECTION
+atom        439  38    o     "FMN O3P"                         8     16.00    0 !! GUESSED CONNECTION
+atom        440  46    hn    "FMN HN3"                         1      1.01    0 !! GUESSED CONNECTION
+atom        441  34    ha    "FMN HC6"                         1      1.01    0 !! GUESSED CONNECTION
+atom        442  35    hc    "FMN H7M1"                        1      1.01    0 !! GUESSED CONNECTION
+atom        443  35    hc    "FMN H7M2"                        1      1.01    0 !! GUESSED CONNECTION
+atom        444  35    hc    "FMN H7M3"                        1      1.01    0 !! GUESSED CONNECTION
+atom        445  35    hc    "FMN H8M1"                        1      1.01    0 !! GUESSED CONNECTION
+atom        446  35    hc    "FMN H8M2"                        1      1.01    0 !! GUESSED CONNECTION
+atom        447  35    hc    "FMN H8M3"                        1      1.01    0 !! GUESSED CONNECTION
+atom        448  34    ha    "FMN HC9"                         1      1.01    0 !! GUESSED CONNECTION
+atom        449  47    h1    "FMN H1'1"                        1      1.01    0 !! GUESSED CONNECTION
+atom        450  47    h1    "FMN H1'2"                        1      1.01    0 !! GUESSED CONNECTION
+atom        451  47    h1    "FMN HC2'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        452  48    ho    "FMN HO2'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        453  47    h1    "FMN HC3'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        454  48    ho    "FMN HO3'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        455  47    h1    "FMN HC4'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        456  48    ho    "FMN HO4'"                        1      1.01    0 !! GUESSED CONNECTION
+atom        457  47    h1    "FMN H5'1"                        1      1.01    0 !! GUESSED CONNECTION
+atom        458  47    h1    "FMN H5'2"                        1      1.01    0 !! GUESSED CONNECTION
+atom        459  46    hn    "FMN HN5"                         1      1.01    0 !! GUESSED CONNECTION
+atom        460  40    c     "CHL C1"                          6     12.01    0 !! GUESSED CONNECTION
+atom        461  38    o     "CHL O1"                          8     16.00    0 !! GUESSED CONNECTION
+atom        462  33    c3    "CHL C2"                          6     12.01    0 !! GUESSED CONNECTION
+atom        463  33    c3    "CHL C3"                          6     12.01    0 !! GUESSED CONNECTION
+atom        464  39    n     "CHL N1"                          7     14.01    0 !! GUESSED CONNECTION
+atom        465  33    c3    "CHL C4"                          6     12.01    0 !! GUESSED CONNECTION
+atom        466  49    cl    "CHL Cl1"                        17     35.45    0 !! GUESSED CONNECTION
+atom        467  47    h1    "CHL H1"                          1      1.01    0 !! GUESSED CONNECTION
+atom        468  47    h1    "CHL H2"                          1      1.01    0 !! GUESSED CONNECTION
+atom        469  47    h1    "CHL H3"                          1      1.01    0 !! GUESSED CONNECTION
+atom        470  47    h1    "CHL H4"                          1      1.01    0 !! GUESSED CONNECTION
+atom        471  47    h1    "CHL H5"                          1      1.01    0 !! GUESSED CONNECTION
+atom        472  47    h1    "CHL H6"                          1      1.01    0 !! GUESSED CONNECTION
+atom        473  47    h1    "CHL H7"                          1      1.01    0 !! GUESSED CONNECTION
+atom        474  47    h1    "CHL H8"                          1      1.01    0 !! GUESSED CONNECTION
+atom        475  50    OW    "HOH O"                           8     16.00    2
+atom        476  51    HW    "HOH H1"                          1      1.01    1
+atom        477  51    HW    "HOH H2"                          1      1.01    1
